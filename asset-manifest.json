@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.com/React1Project/static/css/main.2691e2f6.chunk.css",
+    "main.js": "/github.com/React1Project/static/js/main.77d7253e.chunk.js",
+    "main.js.map": "/github.com/React1Project/static/js/main.77d7253e.chunk.js.map",
+    "runtime-main.js": "/github.com/React1Project/static/js/runtime-main.117f67fd.js",
+    "runtime-main.js.map": "/github.com/React1Project/static/js/runtime-main.117f67fd.js.map",
+    "static/js/2.e658f16d.chunk.js": "/github.com/React1Project/static/js/2.e658f16d.chunk.js",
+    "static/js/2.e658f16d.chunk.js.map": "/github.com/React1Project/static/js/2.e658f16d.chunk.js.map",
+    "index.html": "/github.com/React1Project/index.html",
+    "precache-manifest.595967f6a981151fb3789865600efa4d.js": "/github.com/React1Project/precache-manifest.595967f6a981151fb3789865600efa4d.js",
+    "service-worker.js": "/github.com/React1Project/service-worker.js",
+    "static/css/main.2691e2f6.chunk.css.map": "/github.com/React1Project/static/css/main.2691e2f6.chunk.css.map",
+    "static/js/2.e658f16d.chunk.js.LICENSE.txt": "/github.com/React1Project/static/js/2.e658f16d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.117f67fd.js",
+    "static/js/2.e658f16d.chunk.js",
+    "static/css/main.2691e2f6.chunk.css",
+    "static/js/main.77d7253e.chunk.js"
+  ]
+}
