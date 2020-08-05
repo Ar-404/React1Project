@@ -1,0 +1,44 @@
+const value = [
+    {
+    id:1,
+    src:"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1574144362",
+      alt:"photo1"
+    },
+    {
+        id:2,
+      src:"https://www.joblo.com/assets/images/joblo/posters/2019/01/IO-poster-1.jpg",
+      alt:"photo2"
+    },
+    {
+        id:3,
+      src:"https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/star-is-born-web.jpg",
+      alt:"photo3"
+    },
+    {
+        id:4,
+      src:"https://images-na.ssl-images-amazon.com/images/I/91OMqjzH-pL._SL1500_.jpg",
+      alt:"photo4"
+    },
+    {
+        id:5,
+      src:"https://www.digitalartsonline.co.uk/cmsdata/slideshow/3662115/baby-driver-rory-hi-res.jpg",
+      alt:"photo5"
+    },
+    {
+        id:6,
+      src:"https://cdn.shopify.com/s/files/1/0969/9128/products/Joker_-_Joaquin_Phoenix_-_Fan_Art_-_Hollywood_English_Action_Movie_Poster_631ceac3-4da8-4ecf-a445-092c34001430.jpg?v=1577449060",
+      alt:"photo6"
+    },
+    {
+        id:7,
+      src:"https://www.arthipo.com/image/cache/catalog/genel-tasarim/all-posters/sinema-cinema-film-postersleri/yabanci-filmler/1/pfilm1491-hacker_7cf19a97-poster-movie-film-1000x1000.jpg",
+      alt:"photo7"
+    },
+    {
+        id:8,
+      src:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRONlirQmOcO5b1GFdu83G6k7E1HmOaYgfsKA&usqp=CAU",
+      alt:"photo8"
+    }
+]
+
+export default value;
